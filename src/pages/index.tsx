@@ -1,3 +1,5 @@
-const Home: React.FC = () => <p>Home</p>
+import Main from 'components/Main'
 
-export default Home
+export default function Home() {
+  return <Main />
+}
