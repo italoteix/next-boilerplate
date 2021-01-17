@@ -1,4 +1,4 @@
-const Main: React.FC = () => (
+const Main = () => (
   <main>
     <h1>React Avançado</h1>
   </main>
